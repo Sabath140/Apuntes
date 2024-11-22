@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+
+
+h1{
+    background-color: blue;
+    color: white;
+}
+p{
+    background-color:darkslategray;
+
+}
+h2{
+    background-color:#a52a2a;
+    color: rgb(0, 0, 255);
+    margin-top: 20px;
+}
+ul{
+    background-color: tomato;
+    padding-inline-start: 0;
+    list-style-type: none;
+}
+li{
+    background-color: darkred;
+    list-style-type: none;
+    color: slategrey;
+    font-weight: 900;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.Tecnologia_1{
+    background-color: orange;
+}
+.Tecnologia_1:hover{
+    transition: 10s;
+    font-size: 50px;
+}
+.Tecnologia_2{
+    background-color: seagreen;
+}
+.imagenes_transicion:hover{
+    width: 500px;
+    transition: 5s;
+}
